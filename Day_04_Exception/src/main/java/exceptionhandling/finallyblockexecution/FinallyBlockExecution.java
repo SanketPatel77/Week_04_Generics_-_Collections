@@ -2,7 +2,7 @@ package exceptionhandling.finallyblockexecution;
 
 import java.util.Scanner;
 
-public class FinalBlockExecution {
+public class FinallyBlockExecution {
     public static void main(String[] args) {
         // scanner obj
         Scanner scanner = new Scanner(System.in);
